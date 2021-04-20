@@ -14,5 +14,6 @@
 ## Legal
 
 * [Licencia de uso](legal/licencia.md)
+* [Aviso legal](legal/aviso_legal.md)
 * [Cookies](legal\cookies.md)
-
+* [Privacidad](legal/cookies.md)
