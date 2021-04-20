@@ -1,19 +1,20 @@
 # Table of contents
 
-- [Guía de estilo de Python](Información.md)
+* [Guía de estilo de Python](Información.md)
 
 ## Basics
 
-- [Preámbulo](basics/0_sobre_esta_guia.md)
-- [Primeros pasos](basics/1_un_poco_de_python.md)
+* [Preámbulo](basics/0_sobre_esta_guia.md)
+* [Primeros pasos](basics/1_un_poco_de_python.md)
 
 ## Tipos de datos
 
-- [Tipos de datos](tipos-de-datos/0_tipos_de_datos.md)
+* [Tipos de datos](tipos-de-datos/0_tipos_de_datos.md)
 
 ## Legal
 
-- [Licencia de uso](legal/licencia.md)
-- [Aviso legal](legal/aviso_legal.md)
-- [Cookies](legal\cookies.md)
-- [Privacidad](legal/privacidad.md)
+* [Licencia de uso](legal/licencia.md)
+* [Aviso legal](legal/aviso_legal.md)
+* [Cookies](legal/cookies.md)
+* [Privacidad](legal/privacidad.md)
+
