@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](Información.md)
+* [Guía de estilo de Python](Información.md)
 
 ## Basics
 
