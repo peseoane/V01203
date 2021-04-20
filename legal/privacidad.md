@@ -1,10 +1,15 @@
+---
+description: >-
+  La Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información
+  y de comercio electrónico obliga a identificar a quienes divulguen contenido
+  intelectual en internet.
+---
+
 # Privacidad
 
 ## Responsable – ¿quién es el responsable del tratamiento de los datos?
 
 **Identidad:** Guía de estilo de Python   
-**Domicilio social:** Portocultura, Autoridade Portuaria de Vigo, 36202   
-**DNI:** 39468291S   
 **Teléfono:** 626953072   
 **Correo Electrónico:** info@pedroseoaneprado.es   
 **Contacto:** Pedro Seoane Prado   

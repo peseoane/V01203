@@ -1,8 +1,10 @@
 ---
-description: Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
+description: Qué puedo y qué no puedo hacer con esta publicación.
 ---
 
 # Licencia de uso
+
+## Atribución-NoComercial-CompartirIgual 4.0 Internacional \(CC BY-NC-SA 4.0\)
 
 Al ejercer los Derechos Licenciados \(definidos a continuación\), Usted acepta y acuerda estar obligado por los términos y condiciones de esta Licencia Internacional Pública de Atribución/Reconocimiento-NoComercial-CompartirIgual 4.0 de Creative Commons \("Licencia Pública"\). En la medida en que esta Licencia Pública pueda ser interpretada como un contrato, a Usted se le otorgan los Derechos Licenciados en consideración a su aceptación de estos términos y condiciones, y el Licenciante le concede a Usted tales derechos en consideración a los beneficios que el Licenciante recibe por poner a disposición el Material Licenciado bajo estos términos y condiciones.
 

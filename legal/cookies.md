@@ -1,3 +1,7 @@
+---
+description: Principalmente de Google y Gitbook.
+---
+
 # Cookies
 
 En esta web se utilizan cookies de terceros y propias para conseguir que tengas una mejor experiencia de navegación, puedas compartir contenido en redes sociales y para que podamos obtener estadísticas de los usuarios.
