@@ -1,4 +1,4 @@
-# Iniciación
+# Python
 
 Debo de suponer que no sabes absolutamente nada de programación, por lo que intentaré explicarte de manera muy amigable todo lo que pueda.
 
@@ -23,11 +23,11 @@ Hola mundo
 >>>
 ```
 
-### ¿No hay un archivo fuente que compilar?
+## ¿No hay un archivo fuente que compilar?
 
 No, en el caso anterior, tan sólo he abierto el programa desde la terminal, he escrito la función y me ha devuelto la respuesta, a esto se le conoce como ==modo intérprete==. Funciona como una súper-calculadora básicamente, la enciendes y le das a las teclas. [😉](https://emojiterra.com/es/guinando-el-ojo/)
 
-### ¿Y si prefiero un enfoque más tradicional?
+## ¿Y si prefiero un enfoque más tradicional?
 
 Lógicamente, guardaríamos ese texto en un fichero `holamundo.py` y lo ejecutaríamos desde la terminal.
 
@@ -38,3 +38,4 @@ Hola mundo
 ```
 
 En este caso en vez de abrir `python3` y escribir directamente sobre él órdenes, creamos un fichero y luego le decimos, oye, ábreme esto, se parece más a tener un documento de Word y abrirlo con Word, una pequeña analogía.
+

@@ -1,14 +1,17 @@
-# Summary
+# Table of contents
+
+* [Introduction](Información.md)
 
 ## Basics
 
-* [Preámbulo](0_Introducción\0_Sobre_Esta_Guía.md)
-* [Python](0_Introducción\1_Un_poco_de_python.md)
+* [Preámbulo](basics/0_sobre_esta_guia.md)
+* [Python](basics/1_un_poco_de_python.md)
 
 ## Tipos de datos
 
-* [Tipos de datos](1.Tipos.de.datos\0_Tipos_de_datos.md)
+* [Tipos de datos](tipos-de-datos/0_tipos_de_datos.md)
 
 ## Legal
 
-* [Licencia](LICENSE\licencia.md)
+* [Licencia de uso](legal/licencia.md)
+
