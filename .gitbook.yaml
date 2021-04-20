@@ -1,0 +1,8 @@
+root: ./
+
+structure:  
+    readme: Bienvenido.md  
+    summary: Índice.md
+    
+redirects:  
+    previous/page: new-folder/page.md
