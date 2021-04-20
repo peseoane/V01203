@@ -36,8 +36,8 @@ No, en el caso anterior, tan sólo he abierto el programa desde la terminal, he 
 Lógicamente, guardaríamos ese texto en un fichero `holamundo.py` y lo ejecutaríamos desde la terminal.
 
 ```bash
- ⚙  /tmp  nano holamundo.py
- ⚙  /tmp  python3 holamundo.py
+nano holamundo.py
+python3 holamundo.py
 Hola mundo
 ```
 
