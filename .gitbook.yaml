@@ -1,7 +1,7 @@
 root: ./
 
 structure:  
-    readme: Bienvenido.md  
+    readme: Información.md  
     summary: Índice.md
     
 redirects:  
