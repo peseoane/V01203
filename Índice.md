@@ -14,4 +14,5 @@
 ## Legal
 
 * [Licencia de uso](legal/licencia.md)
+* [Cookies](legal\cookies.md)
 
