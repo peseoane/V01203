@@ -1,7 +1,7 @@
 # Summary
 
-* [Inicio](01-introducción/01-Sobre-esta-guía.md)
+* [Inicio](0_Introducción\0_Sobre_Esta_Guía.md)
 
 ## Tipos de datos
 
-* [Tipos de datos](01-datos/01-Tipos-de-datos.md)
+* [Tipos de datos](1.Tipos.de.datos\0_Tipos_de_datos.md)
