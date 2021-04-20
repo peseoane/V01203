@@ -1,4 +1,8 @@
-# Python
+---
+description: "Qué es eso de Python... ¿una serpiente? \U0001F40D"
+---
+
+# Primeros pasos
 
 Debo de suponer que no sabes absolutamente nada de programación, por lo que intentaré explicarte de manera muy amigable todo lo que pueda.
 

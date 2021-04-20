@@ -1,3 +1,9 @@
+---
+description: >-
+  Todo lo explicado son características inherentes y propias, no se usa ninguna
+  herramienta o recurso externo.
+---
+
 # Tipos de datos
 
 Aquí, vamos a simplificar mucho las cosas, vamos a explicar qué tipo de datos acepta nuestro lenguaje _\(Aunque podemos crear propios eso ya es algo más avanzado que no se dará en este curso\)_, y qué características básicas tienen.

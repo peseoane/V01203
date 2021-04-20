@@ -5,7 +5,7 @@
 ## Basics
 
 * [Preámbulo](basics/0_sobre_esta_guia.md)
-* [Python](basics/1_un_poco_de_python.md)
+* [Primeros pasos](basics/1_un_poco_de_python.md)
 
 ## Tipos de datos
 
