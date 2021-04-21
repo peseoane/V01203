@@ -1,4 +1,8 @@
 ---
+author: Pedro Vicente Seoane Prado
+title: Guía de estilo para Python en IPI
+layout: book
+date: '2021-04-19T00:00:00.000Z'
 description: "Qué es eso de Python... ¿una serpiente? \U0001F40D"
 ---
 
