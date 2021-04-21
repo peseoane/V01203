@@ -52,4 +52,26 @@ Nombre_1 = str('Pedro')
 
 Los números, al igual que en las matemáticas los tenemos enteros, reales, complejos… por lo que aquí tenemos un tipo para cada cosa.
 
-Para repre
+Para representar cada uno de ellos, hay una asignación determinada.
+
+### Números enteros
+
+Aquí se engloban tanto los números enteros y naturales, y se utiliza el tipo de dato `int()`
+
+Unos ejemplos serían:
+
+```python
+número_0 = int(0)
+número_1 = int(-1)
+número_2 = 3
+```
+
+> Fijaros que no es obligatorio declarar el `int()`, pero es una buena práctica para saber lo que hacemos y de paso acelerar un poco la ejecución del programa.
+
+Así mismo podemos declarar la variable vacía.
+
+```python
+número_reservado = int()
+```
+
+Pero de este modo sólo se puede dicéndole que cree un objeto de tipo `int()` ya que él por si mismo, si no le ponemos nada *a la derecha*, lógicamente no es adivino el intérprete.
