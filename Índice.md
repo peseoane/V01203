@@ -20,5 +20,5 @@
 
 ---
 
-* [Guía docente oficial](https://secretaria.uvigo.gal/docnet-nuevo/guia_docent/?centre=312&ensenyament=V12G320V01&assignatura=V12G320V01203&idioma_assig=)
+* [DOCNET](https://secretaria.uvigo.gal/docnet-nuevo/guia_docent/?centre=312&ensenyament=V12G320V01&assignatura=V12G320V01203&idioma_assig=)
 
