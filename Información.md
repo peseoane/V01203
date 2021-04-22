@@ -1,5 +1,5 @@
 ---
-description: Adaptada para alumnos de la asignatura V01203 de la UVigo.
+description: Un proyecto de código libre basado en V01203.
 ---
 
 # Guía de estilo de Python
