@@ -1,1 +1,10 @@
 theme: jekyll-theme-midnight
+
+root: ./
+
+structure:  
+    readme: Información.md  
+    summary: Índice.md
+    
+redirects:  
+    previous/page: new-folder/page.md
