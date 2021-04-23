@@ -125,4 +125,3 @@ no afecta ningún derecho que pueda tener el Licenciante a buscar resarcimiento 
 2. En la medida de lo posible, si alguna disposición de esta Licencia Pública se considera inaplicable, esta será automáticamente modificada en la medida mínima necesaria para hacerla aplicable. Si la disposición no puede ser reformada, deberá ser eliminada de esta Licencia Pública sin afectar la exigibilidad de los términos y condiciones restantes.
 3. No se podrá renunciar a ningún término o condición de esta Licencia Pública, ni se consentirá ningún incumplimiento, a menos que se acuerde expresamente con el Licenciante.
 4. Nada en esta Licencia Pública constituye ni puede ser interpretado como una limitación o una renuncia a los privilegios e inmunidades que aplican al Licenciante o a Usted, incluyendo aquellos surgidos a partir de procesos legales de cualquier jurisdicción o autoridad.
-

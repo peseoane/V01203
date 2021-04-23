@@ -9,10 +9,10 @@ description: >-
 
 ## Responsable – ¿quién es el responsable del tratamiento de los datos?
 
-**Identidad:** Guía de estilo de Python   
-**Teléfono:** 626953072   
-**Correo Electrónico:** info@pedroseoaneprado.es   
-**Contacto:** Pedro Seoane Prado   
+**Identidad:** Guía de estilo de Python
+**Teléfono:** 626953072
+**Correo Electrónico:** info@pedroseoaneprado.es
+**Contacto:** Pedro Seoane Prado
 **Nombre del dominio:** ipi.teledocencia.es
 
 ## Finalidades – ¿con qué finalidades tratamos tus datos?
@@ -80,4 +80,3 @@ Guía de estilo de Python podrá modificar la presente Política de Privacidad e
 La presente Política de Privacidad se encuentra actualizada a fecha 27/12/2018 Guía de estilo de Python \(España\). Reservados todos los derechos.
 
 Si lo deseas también puedes consultar nuestra [**Política de Cookies**](https://ipi.teledocencia.es/legal/cookies)
-

@@ -1,6 +1,5 @@
 ---
 author: Pedro Vicente Seoane Prado
-title: Tipos de datos en Python
 layout: book
 date: '2021-04-19T00:00:00.000Z'
 description: Todo lo explicado son características inherentes y propias, no se usa ninguna herramienta o recurso externo.
@@ -141,3 +140,4 @@ frase = '''
 
 ### Lógica booleana
 
+foo.
