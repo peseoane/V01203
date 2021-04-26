@@ -10,6 +10,7 @@
 ## 🗄️ Tipos de datos
 
 * [🗃️ Tipos de datos](tipos-de-datos/0_tipos_de_datos.md)
+  * [🙅 Booleanos](tipos-de-datos\0_booleanos.md)
 
 ## 📝 Legal
 
