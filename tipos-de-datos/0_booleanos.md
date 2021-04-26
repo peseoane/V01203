@@ -21,7 +21,7 @@ En resumen solo admitimos que sea:
 
 > Esto no es más que la aplicación informática del álgebra booleana.
 >
-> Aquí el uso del operador `==` implica que algo está asignado a un valor mientras que el otro, `!=` implica que cualquier otro valor diferente al asignado. *En Python siempre se usa el orden de `operador + igual`
+> Aquí el uso del operador `==` implica que algo está asignado a un valor mientras que el otro, `!=` implica que cualquier otro valor diferente al asignado. **En Python siempre se usa el orden de `operador + igual`**
 
 El tipo de dato lógico o booleano es en computación aquel que puede representar valores de lógica binaria, esto es 2 valores, que normalmente representan falso o verdadero.1​ Se utiliza normalmente en la programación, estadística, electrónica, matemáticas (Álgebra booleana), etc.
 
