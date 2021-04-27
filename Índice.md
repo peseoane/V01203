@@ -10,7 +10,7 @@
 ## 🗄️ Tipos de datos
 
 * [🗃️ Tipos de datos](tipos-de-datos/0_tipos_de_datos.md)
-  * [🔢 Numéricos](tipos-de-datos\0_cadenas_strings.md)
+  * [🔢 Numéricos](tipos-de-datos\0_numericos.md)
   * [🔤 Alfanuméricos](tipos-de-datos\0_cadenas_strings.md)
   * [🙅 Booleanos](tipos-de-datos\0_booleanos.md)
 
