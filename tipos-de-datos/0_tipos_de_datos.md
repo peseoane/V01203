@@ -1,7 +1,7 @@
 ---
 author: Pedro Vicente Seoane Prado
 layout: book
-date: '2021-04-19T00:00:00.000Z'
+date: "2021-04-19T00:00:00.000Z"
 description: Todo lo explicado son características inherentes y propias, no se usa ninguna herramienta o recurso externo.
 ---
 
@@ -17,11 +17,11 @@ Cuando creamos un dato o valor, se le asigna una etiqueta o identificador y se l
 
 Las variables pueden tener unos nombres determinados, hay una reglas que cumplir no todas valen, además hay palabras reservadas, pero las reglas principales son:
 
-* Deben comenzar con un caracter.
-  * Así mismo pueden contener una barra baja o dos pero son para otros usos más avanzados.
-* No pueden empezar por un número
-* No pueden ser una de las palabras reservadas.
-  
+- Deben comenzar con un caracter.
+  - Así mismo pueden contener una barra baja o dos pero son para otros usos más avanzados.
+- No pueden empezar por un número
+- No pueden ser una de las palabras reservadas.
+
 ### Palabras reservadas
 
 Podemos comprobarlo si desde una terminal ejecutamos los siguientes comandos:
@@ -75,7 +75,7 @@ Así mismo podemos declarar la variable vacía.
 número_reservado = int()
 ```
 
-Pero de este modo sólo se puede dicéndole que cree un objeto de tipo `int()` ya que él por si mismo, si no le ponemos nada *a la derecha*, lógicamente no es adivino el intérprete.
+Pero de este modo sólo se puede dicéndole que cree un objeto de tipo `int()` ya que él por si mismo, si no le ponemos nada _a la derecha_, lógicamente no es adivino el intérprete.
 
 **En principio no debemos preoparnos por sobrepasar un valor máximo numérico, no es necesario tener esa limitación en mente**.
 

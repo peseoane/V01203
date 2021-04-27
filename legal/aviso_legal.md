@@ -34,8 +34,8 @@ Por si puede ser de tu interés, para someter tus reclamaciones puedes utilizar 
 
 En virtud de lo dispuesto en los artículos 8 y 32.1, párrafo segundo, de la Ley de Propiedad Intelectual, quedan expresamente prohibidas la reproducción, la distribución y la comunicación pública, incluida su modalidad de puesta a disposición, de la totalidad o parte de los contenidos de esta página web, con fines comerciales, en cualquier soporte y por cualquier medio técnico, sin la autorización de [https://ipi.teledocencia.es](https://ipi.teledocencia.es). El usuario se compromete a respetar los derechos de Propiedad Intelectual e Industrial titularidad de [https://ipi.teledocencia.es](https://ipi.teledocencia.es). El usuario conoce y acepta que la totalidad del sitio web, conteniendo sin carácter exhaustivo el texto, software, contenidos \(incluyendo estructura, selección, ordenación y presentación de los mismos\) podcast, fotografías, material audiovisual y gráficos, está protegida por marcas, derechos de autor y otros derechos legítimos, de acuerdo con los tratados internacionales en los que España es parte y otros derechos de propiedad y leyes de España. En el caso de que un usuario o un tercero consideren que se ha producido una violación de sus legítimos derechos de propiedad intelectual por la introducción de un determinado contenido en la web, deberá notificar dicha circunstancia a [https://ipi.teledocencia.es](https://ipi.teledocencia.es) indicando:
 
-* Datos personales del interesado titular de los derechos presuntamente infringidos, o indicar la representación con la que actúa en caso de que la reclamación la presente un tercero distinto del interesado.
-* Señalar los contenidos protegidos por los derechos de propiedad intelectual y su ubicación en la web, la acreditación de los derechos de propiedad intelectual señalados y declaración expresa en la que el interesado se responsabiliza de la veracidad de las informaciones facilitadas en la notificación
+- Datos personales del interesado titular de los derechos presuntamente infringidos, o indicar la representación con la que actúa en caso de que la reclamación la presente un tercero distinto del interesado.
+- Señalar los contenidos protegidos por los derechos de propiedad intelectual y su ubicación en la web, la acreditación de los derechos de propiedad intelectual señalados y declaración expresa en la que el interesado se responsabiliza de la veracidad de las informaciones facilitadas en la notificación
 
 ## ENLACES EXTERNOS
 
@@ -51,11 +51,11 @@ En nuestra web y se permiten realizar comentarios para enriquecer los contenidos
 
 El Prestador no otorga ninguna garantía ni se hace responsable, en ningún caso, de los daños y perjuicios de cualquier naturaleza que pudieran traer causa de:
 
-* La falta de disponibilidad, mantenimiento y efectivo funcionamiento de la web, o de sus servicios y contenidos;
-* La existencia de virus, programas maliciosos o lesivos en los contenidos;
-* El uso ilícito, negligente, fraudulento o contrario a este Aviso Legal;
-* La falta de licitud, calidad, fiabilidad, utilidad y disponibilidad de los servicios prestados por terceros y puestos a disposición de los usuarios en el sitio web.
-* El prestador no se hace responsable bajo ningún concepto de los daños que pudieran dimanar del uso ilegal o indebido de la presente página web.
+- La falta de disponibilidad, mantenimiento y efectivo funcionamiento de la web, o de sus servicios y contenidos;
+- La existencia de virus, programas maliciosos o lesivos en los contenidos;
+- El uso ilícito, negligente, fraudulento o contrario a este Aviso Legal;
+- La falta de licitud, calidad, fiabilidad, utilidad y disponibilidad de los servicios prestados por terceros y puestos a disposición de los usuarios en el sitio web.
+- El prestador no se hace responsable bajo ningún concepto de los daños que pudieran dimanar del uso ilegal o indebido de la presente página web.
 
 ## LEY APLICABLE Y JURISDICCIÓN
 
@@ -66,4 +66,3 @@ Con carácter general las relaciones entre [https://ipi.teledocencia.es](https:/
 En caso de que cualquier Usuario tuviese alguna duda acerca de estas Condiciones legales o cualquier comentario sobre el portal [https://ipi.teledocencia.es](https://ipi.teledocencia.es), por favor diríjase a [info@pedroseoaneprado.es](mailto:info@pedroseoaneprado.es)
 
 De parte del equipo que formamos Guía de estilo de Python te agradecemos el tiempo dedicado en leer este Aviso Legal
-

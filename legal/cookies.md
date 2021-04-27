@@ -28,12 +28,12 @@ Las cookies utilizadas en nuestro sitio web, son de sesión y de terceros, y nos
 
 Las cookies, en función de su permanencia, pueden dividirse en cookies de sesión o permanentes. Las que expiran cuando el usuario cierra el navegador. Las que expiran en función de cuando se cumpla el objetivo para el que sirven \(por ejemplo, para que el usuario se mantenga identificado en los servicios de Guía de estilo de Python\) o bien cuando se borran manualmente.
 
-| Nombre | Tipo | Caducidad | Finalidad | Clase |
-| :--- | :--- | :--- | :--- | :--- |
-| \_\_utma | De Terceros \(Google Analytics\) | 2 años | Se usa para distinguir usuarios y sesiones. | No Exenta |
-| \_\_utmb | De Terceros \(Google Analytics\) | 30 minutos | Se usa para determinar nuevas sesiones o visitas | No Exenta |
-| \_\_utmc | De Terceros \(Google Analytics\) | Al finalizar la sesión | Se configura para su uso con Urchin | No Exenta |
-| \_\_utmz | De Terceros \(Google Analytics\) | 6 meses | Almacena el origen o la campaña que explica cómo el usuario ha llegado hasta la página web | No Exenta |
+| Nombre   | Tipo                             | Caducidad              | Finalidad                                                                                  | Clase     |
+| :------- | :------------------------------- | :--------------------- | :----------------------------------------------------------------------------------------- | :-------- |
+| \_\_utma | De Terceros \(Google Analytics\) | 2 años                 | Se usa para distinguir usuarios y sesiones.                                                | No Exenta |
+| \_\_utmb | De Terceros \(Google Analytics\) | 30 minutos             | Se usa para determinar nuevas sesiones o visitas                                           | No Exenta |
+| \_\_utmc | De Terceros \(Google Analytics\) | Al finalizar la sesión | Se configura para su uso con Urchin                                                        | No Exenta |
+| \_\_utmz | De Terceros \(Google Analytics\) | 6 meses                | Almacena el origen o la campaña que explica cómo el usuario ha llegado hasta la página web | No Exenta |
 
 Adicionalmente, en función de su objetivo, las cookies pueden clasificarse de la siguiente forma:
 

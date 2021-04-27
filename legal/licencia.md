@@ -98,6 +98,7 @@ Para evitar dudas, esta sección [4](https://creativecommons.org/licenses/by-nc-
 
 1. Esta Licencia Pública tiene una vigencia de aplicación igual al plazo de protección de los Derechos de Autor y Derechos Similares licenciados aquí. Sin embargo, si Usted incumple las condiciones de esta Licencia Pública, los derechos que se le conceden mediante esta Licencia Pública terminan automáticamente.
 2. En aquellos casos en que Su derecho a utilizar el Material Licenciado se haya terminado conforme a la sección [6\(a\)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es#s6a), este será restablecido:
+
    1. automáticamente a partir de la fecha en que la violación sea subsanada, siempre y cuando esta se subsane dentro de los 30 días siguientes a partir de Su descubrimiento de la violación; o
    2. tras el restablecimiento expreso por parte del Licenciante.
 

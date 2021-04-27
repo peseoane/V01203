@@ -1,7 +1,7 @@
 ---
 author: Pedro Vicente Seoane Prado
 layout: book
-date: '2021-04-19T00:00:00.000Z'
+date: "2021-04-19T00:00:00.000Z"
 description: Para Python, y ordenadores en general, las frases son sucesiones de caracteres, por eso los llamamamos cadenas.
 ---
 

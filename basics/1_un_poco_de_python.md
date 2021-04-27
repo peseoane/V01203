@@ -1,7 +1,7 @@
 ---
 author: Pedro Vicente Seoane Prado
 layout: book
-date: '2021-04-19T00:00:00.000Z'
+date: "2021-04-19T00:00:00.000Z"
 description: "Qué es eso de Python... ¿una serpiente? \U0001F40D"
 ---
 

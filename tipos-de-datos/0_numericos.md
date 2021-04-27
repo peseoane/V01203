@@ -1,7 +1,7 @@
 ---
 author: Pedro Vicente Seoane Prado
 layout: book
-date: '2021-04-19T00:00:00.000Z'
+date: "2021-04-19T00:00:00.000Z"
 description: Los datos más elementales, aquellos numéricos.
 ---
 
@@ -31,7 +31,7 @@ Así mismo podemos declarar la variable vacía.
 número_reservado = int()
 ```
 
-Pero de este modo sólo se puede dicéndole que cree un objeto de tipo `int()` ya que él por si mismo, si no le ponemos nada *a la derecha*, lógicamente no es adivino el intérprete.
+Pero de este modo sólo se puede dicéndole que cree un objeto de tipo `int()` ya que él por si mismo, si no le ponemos nada _a la derecha_, lógicamente no es adivino el intérprete.
 
 **En principio no debemos preoparnos por sobrepasar un valor máximo numérico, no es necesario tener esa limitación en mente**.
 

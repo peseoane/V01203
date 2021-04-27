@@ -19,20 +19,20 @@ description: >-
 
 En cumplimiento de lo dispuesto en el Reglamento Europeo 2016/679 General de Protección de Datos, te informamos de que trataremos los datos que nos facilitas para:
 
-* Gestionar la contratación de servicios que realice a través de la Plataforma, así como la facturación y entrega correspondiente.
-* Remitir periódicamente comunicaciones sobre servicios, eventos y noticias relacionadas con las actividades desarrolladas por Guía de estilo de Python, por cualquier medio \(teléfono, correo postal o email\), salvo que se indique lo contrario o el usuario se oponga o revoque su consentimiento.
-* Remitir información comercial y / o promocional relacionada con el sector de servicios contratados y valor añadido para usuarios finales, salvo que se indique lo contrario o el usuario se oponga o revoque su consentimiento.
-* Dar cumplimiento a las obligaciones legalmente establecidas, así como verificar el cumplimiento de las obligaciones contractuales, incluía la prevención de fraude.
-* Cesión de datos a organismos y autoridades, siempre y cuando sean requeridos de conformidad con las disposiciones legales y reglamentarias.
+- Gestionar la contratación de servicios que realice a través de la Plataforma, así como la facturación y entrega correspondiente.
+- Remitir periódicamente comunicaciones sobre servicios, eventos y noticias relacionadas con las actividades desarrolladas por Guía de estilo de Python, por cualquier medio \(teléfono, correo postal o email\), salvo que se indique lo contrario o el usuario se oponga o revoque su consentimiento.
+- Remitir información comercial y / o promocional relacionada con el sector de servicios contratados y valor añadido para usuarios finales, salvo que se indique lo contrario o el usuario se oponga o revoque su consentimiento.
+- Dar cumplimiento a las obligaciones legalmente establecidas, así como verificar el cumplimiento de las obligaciones contractuales, incluía la prevención de fraude.
+- Cesión de datos a organismos y autoridades, siempre y cuando sean requeridos de conformidad con las disposiciones legales y reglamentarias.
 
 ## Categorías de datos – ¿Qué datos tratamos?
 
 Derivada de las finalidades antes mencionadas, en Guía de estilo de Python gestionamos las siguientes categorías de datos:
 
-* Datos identificativos
-* Metadatos de comunicaciones electrónicas
-* Datos de información comercial. En caso de que el usuario facilite datos de terceros, manifiesta contar con el consentimiento de estos y se compromete a trasladarle la información contenida en esta cláusula, eximiendo a Guía de estilo de Python de cualquier responsabilidad en este sentido.
-* No obstante, Guía de estilo de Python podrá llevar a cabo las verificaciones para constatar este hecho, adoptando las medidas de diligencia debida que correspondan, conforme a la normativa de protección de datos.
+- Datos identificativos
+- Metadatos de comunicaciones electrónicas
+- Datos de información comercial. En caso de que el usuario facilite datos de terceros, manifiesta contar con el consentimiento de estos y se compromete a trasladarle la información contenida en esta cláusula, eximiendo a Guía de estilo de Python de cualquier responsabilidad en este sentido.
+- No obstante, Guía de estilo de Python podrá llevar a cabo las verificaciones para constatar este hecho, adoptando las medidas de diligencia debida que correspondan, conforme a la normativa de protección de datos.
 
 ## Legitimación – ¿cuál es la legitimación para el tratamiento de tus datos?
 
@@ -56,10 +56,10 @@ Bancos y entidades financieras, para el cobro de los servicios. Administraciones
 
 Para proteger las diferentes tipologías de datos reflejados en esta política de privacidad llevará a cabo las medidas de seguridad técnicas necesarias para evitar su pérdida, manipulación, difusión o alteración.
 
-* Encriptación de las comunicaciones entre el dispositivo del usuario y los servidores de Guía de estilo de Python
-* Encriptación de la información en los propios servidores de Guía de estilo de Python
-* Otras medidas que eviten el acceso a los datos del usuario por parte de terceros.
-* En aquellos casos en los que Guía de estilo de Python cuente con prestadores de servicio para el mantenimiento de la plataforma que se encuentren fuera de la Unión Europea, estas trasferencias internacionales se hayan regularizadas atendiendo al compromiso de Guía de estilo de Python con la protección, integridad y seguridad de los datos personales de los usuarios.
+- Encriptación de las comunicaciones entre el dispositivo del usuario y los servidores de Guía de estilo de Python
+- Encriptación de la información en los propios servidores de Guía de estilo de Python
+- Otras medidas que eviten el acceso a los datos del usuario por parte de terceros.
+- En aquellos casos en los que Guía de estilo de Python cuente con prestadores de servicio para el mantenimiento de la plataforma que se encuentren fuera de la Unión Europea, estas trasferencias internacionales se hayan regularizadas atendiendo al compromiso de Guía de estilo de Python con la protección, integridad y seguridad de los datos personales de los usuarios.
 
 ## Derechos – ¿Cuáles son tus derechos cuando nos facilitas tus datos y cómo puedes ejercerlos?
 

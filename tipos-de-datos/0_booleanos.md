@@ -1,7 +1,7 @@
 ---
 author: Pedro Vicente Seoane Prado
 layout: book
-date: '2021-04-19T00:00:00.000Z'
+date: "2021-04-19T00:00:00.000Z"
 description: Los datos booleanos son aquellos que nos muestran condiciones de verdad o falsedad de manera binaria y lógica.
 ---
 
@@ -9,8 +9,8 @@ description: Los datos booleanos son aquellos que nos muestran condiciones de ve
 
 Este tipo de dato es **lógico**, quiere decir que nos puede dar dos respuestas:
 
-* Un valor que sea `0` implica que algo es **falso**.
-* Un valor que sea cualquier otro valor, usualmente `1` se considera **verdadero**.
+- Un valor que sea `0` implica que algo es **falso**.
+- Un valor que sea cualquier otro valor, usualmente `1` se considera **verdadero**.
 
 En resumen solo admitimos que sea:
 
@@ -39,7 +39,7 @@ bandera3 = bool(1)
 Las palabras `False` y `True` están reservadas para el lenguaje, es decir, no se pueden usar como nombre de variable.
 
 ```python
- >>> True = 1 
+ >>> True = 1
  File "<stdin>", line 1
    True = 1
    ^
@@ -47,7 +47,7 @@ Las palabras `False` y `True` están reservadas para el lenguaje, es decir, no s
 
 ```
 
-El error nos dice claramente que **no se puede asignar nada a `True`, forma parte de la lista de palabras reservadas.
+El error nos dice claramente que \*\*no se puede asignar nada a `True`, forma parte de la lista de palabras reservadas.
 
 Para comprobar que funcionan, podemos usar una **condición lógica**.
 
@@ -127,8 +127,8 @@ Pero si lo comparamos al mismo número siendo una cadena, no es lo mismo, por lo
 
 Los clasificaciamos principalmente en aquellos que pueden darnos:
 
-* Rangos abiertos: aquellos que queremos saber si algo es mayor o menos que algo.
-* Rangos cerrados: aquellos en lo que queremos saber si algo es mayor o igual a algo, y viceversa, menor o igual a un valor dado.
+- Rangos abiertos: aquellos que queremos saber si algo es mayor o menos que algo.
+- Rangos cerrados: aquellos en lo que queremos saber si algo es mayor o igual a algo, y viceversa, menor o igual a un valor dado.
 
 ```python
 # Comparadores escritos
@@ -200,7 +200,7 @@ Usando la función integrada `type(var)` nos dirá qué ha pasado:
 
 El análogo de `is` sería `not`.
 
-En este caso se hace la unión de *el dato de la derecha no es exactamente el mismo que el segundo**.
+En este caso se hace la unión de \*el dato de la derecha no es exactamente el mismo que el segundo\*\*.
 
 Poner un `not` solitario no funcionará. 😥
 
